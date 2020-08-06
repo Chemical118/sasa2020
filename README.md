@@ -4,6 +4,10 @@
 git clone https://github.com/greendaygh/sasa2020.git
 ```
 
+# 참고
+- [딥러닝 기본 http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/chap2.html)
+- [딥러닝 기본 코드 1](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- [딥러닝 기본 코드 python3](https://github.com/MichalDanielDobrzanski/DeepLearningPython35/blob/master/test.py)
 
 # 2020.08.04
 - 단백질 서열 분석 목표 개요
